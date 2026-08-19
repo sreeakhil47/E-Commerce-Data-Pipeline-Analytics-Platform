@@ -2,7 +2,7 @@
 
 • The E-Commerce Data Pipeline & Analytics Platform is a data-driven system designed to collect, process, store, analyze, and visualize e-commerce business data to support better decision-making and business intelligence. In modern e-commerce environments, organizations generate large volumes of data through customer interactions, product sales, payments, orders, and reviews. Managing and extracting meaningful insights from this data manually becomes inefficient and time-consuming.
 
-# • This project aims to solve that challenge by developing an automated analytics platform that converts raw business data into useful insights.
+• 𝗧𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗮𝗶𝗺𝘀 𝘁𝗼 𝘀𝗼𝗹𝘃𝗲 𝘁𝗵𝗮𝘁 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗯𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗮𝗻 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝘁𝗵𝗮𝘁 𝗰𝗼𝗻𝘃𝗲𝗿𝘁𝘀 𝗿𝗮𝘄 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗱𝗮𝘁𝗮 𝗶𝗻𝘁𝗼 𝘂𝘀𝗲𝗳𝘂𝗹 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀.
 
 • The proposed system follows a complete ETL (Extract, Transform, Load) architecture. Data is collected from multiple sources such as CSV files, APIs, or databases containing information related to customers, products, transactions, orders, and payment details. During the extraction phase, data is gathered from these sources and prepared for processing. In the transformation phase, the system performs data cleaning, handling missing values, removing duplicate records, standardizing formats, and generating calculated business metrics. Finally, the processed data is loaded into a structured database for efficient storage and retrieval.
 
