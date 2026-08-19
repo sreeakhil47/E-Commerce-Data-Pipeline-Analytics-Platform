@@ -1,9 +1,9 @@
 # E-Commerce Data Pipeline and Analytics Platform
 
-• The E-Commerce Data Pipeline & Analytics Platform is a data-driven system designed to collect, process, store, analyze, and visualize e-commerce business data to support better decision-making and business intelligence. In modern e-commerce environments, organizations generate large volumes of data through customer interactions, product sales, payments, orders, and reviews. Managing and extracting meaningful insights from this data manually becomes inefficient and time-consuming.
+This project aims to solve that challenge by developing an automated analytics platform that converts raw business data into useful insights. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-This project aims to solve that challenge by developing an automated analytics platform that converts raw business data into useful insights.
+• The E-Commerce Data Pipeline & Analytics Platform is a data-driven system designed to collect, process, store, analyze, and visualize e-commerce business data to support better decision-making and business intelligence. In modern e-commerce environments, organizations generate large volumes of data through customer interactions, product sales, payments, orders, and reviews. Managing and extracting meaningful insights from this data manually becomes inefficient and time-consuming.
 
 • The proposed system follows a complete ETL (Extract, Transform, Load) architecture. Data is collected from multiple sources such as CSV files, APIs, or databases containing information related to customers, products, transactions, orders, and payment details. During the extraction phase, data is gathered from these sources and prepared for processing. In the transformation phase, the system performs data cleaning, handling missing values, removing duplicate records, standardizing formats, and generating calculated business metrics. Finally, the processed data is loaded into a structured database for efficient storage and retrieval.
 
