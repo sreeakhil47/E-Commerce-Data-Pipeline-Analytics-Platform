@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 This project aims to solve that challenge by developing an automated analytics platform that converts raw business data into useful insights.
----------------------------------------------------------------------------------------------------------------------------------------------
+
 • The proposed system follows a complete ETL (Extract, Transform, Load) architecture. Data is collected from multiple sources such as CSV files, APIs, or databases containing information related to customers, products, transactions, orders, and payment details. During the extraction phase, data is gathered from these sources and prepared for processing. In the transformation phase, the system performs data cleaning, handling missing values, removing duplicate records, standardizing formats, and generating calculated business metrics. Finally, the processed data is loaded into a structured database for efficient storage and retrieval.
 
 • After building the data pipeline, the platform performs analytical operations using SQL and Python-based data processing techniques to generate meaningful business insights. Key performance indicators (KPIs) such as total revenue, monthly sales trends, customer growth, product performance, order statistics, and customer behavior are calculated automatically. These insights are presented through interactive dashboards developed using Power BI and Streamlit, allowing users to monitor business performance visually and make data-driven decisions.
